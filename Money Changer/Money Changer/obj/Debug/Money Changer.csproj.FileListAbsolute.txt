@@ -1,0 +1,34 @@
+C:\KULIAH\Semester 6\Pemrograman Berbasis Kerangka Kerja D\Money Changer\Money Changer\bin\Debug\Money Changer.exe.config
+C:\KULIAH\Semester 6\Pemrograman Berbasis Kerangka Kerja D\Money Changer\Money Changer\bin\Debug\Money Changer.exe
+C:\KULIAH\Semester 6\Pemrograman Berbasis Kerangka Kerja D\Money Changer\Money Changer\bin\Debug\Money Changer.pdb
+C:\KULIAH\Semester 6\Pemrograman Berbasis Kerangka Kerja D\Money Changer\Money Changer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\KULIAH\Semester 6\Pemrograman Berbasis Kerangka Kerja D\Money Changer\Money Changer\bin\Debug\Newtonsoft.Json.dll
+C:\KULIAH\Semester 6\Pemrograman Berbasis Kerangka Kerja D\Money Changer\Money Changer\bin\Debug\RestSharp.dll
+C:\KULIAH\Semester 6\Pemrograman Berbasis Kerangka Kerja D\Money Changer\Money Changer\bin\Debug\System.Buffers.dll
+C:\KULIAH\Semester 6\Pemrograman Berbasis Kerangka Kerja D\Money Changer\Money Changer\bin\Debug\System.Memory.dll
+C:\KULIAH\Semester 6\Pemrograman Berbasis Kerangka Kerja D\Money Changer\Money Changer\bin\Debug\System.Numerics.Vectors.dll
+C:\KULIAH\Semester 6\Pemrograman Berbasis Kerangka Kerja D\Money Changer\Money Changer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\KULIAH\Semester 6\Pemrograman Berbasis Kerangka Kerja D\Money Changer\Money Changer\bin\Debug\System.Text.Encodings.Web.dll
+C:\KULIAH\Semester 6\Pemrograman Berbasis Kerangka Kerja D\Money Changer\Money Changer\bin\Debug\System.Text.Json.dll
+C:\KULIAH\Semester 6\Pemrograman Berbasis Kerangka Kerja D\Money Changer\Money Changer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\KULIAH\Semester 6\Pemrograman Berbasis Kerangka Kerja D\Money Changer\Money Changer\bin\Debug\System.ValueTuple.dll
+C:\KULIAH\Semester 6\Pemrograman Berbasis Kerangka Kerja D\Money Changer\Money Changer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\KULIAH\Semester 6\Pemrograman Berbasis Kerangka Kerja D\Money Changer\Money Changer\bin\Debug\Newtonsoft.Json.xml
+C:\KULIAH\Semester 6\Pemrograman Berbasis Kerangka Kerja D\Money Changer\Money Changer\bin\Debug\RestSharp.xml
+C:\KULIAH\Semester 6\Pemrograman Berbasis Kerangka Kerja D\Money Changer\Money Changer\bin\Debug\System.Buffers.xml
+C:\KULIAH\Semester 6\Pemrograman Berbasis Kerangka Kerja D\Money Changer\Money Changer\bin\Debug\System.Memory.xml
+C:\KULIAH\Semester 6\Pemrograman Berbasis Kerangka Kerja D\Money Changer\Money Changer\bin\Debug\System.Numerics.Vectors.xml
+C:\KULIAH\Semester 6\Pemrograman Berbasis Kerangka Kerja D\Money Changer\Money Changer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\KULIAH\Semester 6\Pemrograman Berbasis Kerangka Kerja D\Money Changer\Money Changer\bin\Debug\System.Text.Encodings.Web.xml
+C:\KULIAH\Semester 6\Pemrograman Berbasis Kerangka Kerja D\Money Changer\Money Changer\bin\Debug\System.Text.Json.xml
+C:\KULIAH\Semester 6\Pemrograman Berbasis Kerangka Kerja D\Money Changer\Money Changer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\KULIAH\Semester 6\Pemrograman Berbasis Kerangka Kerja D\Money Changer\Money Changer\bin\Debug\System.ValueTuple.xml
+C:\KULIAH\Semester 6\Pemrograman Berbasis Kerangka Kerja D\Money Changer\Money Changer\obj\Debug\Money Changer.csproj.AssemblyReference.cache
+C:\KULIAH\Semester 6\Pemrograman Berbasis Kerangka Kerja D\Money Changer\Money Changer\obj\Debug\Money Changer.csproj.SuggestedBindingRedirects.cache
+C:\KULIAH\Semester 6\Pemrograman Berbasis Kerangka Kerja D\Money Changer\Money Changer\obj\Debug\Money_Changer.Form1.resources
+C:\KULIAH\Semester 6\Pemrograman Berbasis Kerangka Kerja D\Money Changer\Money Changer\obj\Debug\Money_Changer.Properties.Resources.resources
+C:\KULIAH\Semester 6\Pemrograman Berbasis Kerangka Kerja D\Money Changer\Money Changer\obj\Debug\Money Changer.csproj.GenerateResource.cache
+C:\KULIAH\Semester 6\Pemrograman Berbasis Kerangka Kerja D\Money Changer\Money Changer\obj\Debug\Money Changer.csproj.CoreCompileInputs.cache
+C:\KULIAH\Semester 6\Pemrograman Berbasis Kerangka Kerja D\Money Changer\Money Changer\obj\Debug\Money Changer.csproj.CopyComplete
+C:\KULIAH\Semester 6\Pemrograman Berbasis Kerangka Kerja D\Money Changer\Money Changer\obj\Debug\Money Changer.exe
+C:\KULIAH\Semester 6\Pemrograman Berbasis Kerangka Kerja D\Money Changer\Money Changer\obj\Debug\Money Changer.pdb
